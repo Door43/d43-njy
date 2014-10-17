@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[njy:home|Door43 (njy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-njy|d43-njy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-njy/archive/master.zip|d43-njy.zip]]
+
+**Recent Changes**
+{{changes>ns = njy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/njy|Ethnologue data]]
+
